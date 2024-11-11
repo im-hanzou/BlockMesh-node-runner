@@ -55,7 +55,7 @@ case $choice in
         sleep 1
         
         # Download BlockMesh binary
-        wget https://github.com/block-mesh/block-mesh-monorepo/releases/download/v0.0.358/blockmesh-cli-x86_64-unknown-linux-gnu.tar.gz
+        wget https://github.com/block-mesh/block-mesh-monorepo/releases/download/v0.0.364/blockmesh-cli-x86_64-unknown-linux-gnu.tar.gz
 
         # Extract the archive
         tar -xzvf blockmesh-cli-x86_64-unknown-linux-gnu.tar.gz
